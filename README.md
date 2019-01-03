@@ -5,7 +5,7 @@ A very minimal interpreter for a subset of Tcl, written in Rust.
 ## Why Tcl-like?
 
 * If the scope is just to call native commands, the implementation can be minimal.
-* The minimal prefix-style syntax is friendly to creating domain specific languages. For exmaple `add Foo Bar` is nicer to type than instead something like `add("Foo Bar")` or `add("Foo", "Bar")`.
+* The minimal prefix-style syntax is friendly to creating domain specific languages. For example `add Foo Bar` is nicer to type than something like `add("Foo Bar")` or `add("Foo", "Bar")`.
 
 ## Status
 
