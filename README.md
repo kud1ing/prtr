@@ -26,3 +26,4 @@ What is missing:
 * Quoting (string, block)
 * Helpful functions (e.g. `if`, `for`, `gets`)
 * A non-allocating lexer/parser (using `Cow`?) is desirable.
+* A rewrite that uses [nom](https://github.com/Geal/nom) instead.
